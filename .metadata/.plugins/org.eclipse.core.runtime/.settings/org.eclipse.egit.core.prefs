@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Users\\shash\\OneDrive\\Desktop\\Spring_Boot\\dms\\.git;C\:\\Users\\shash\\OneDrive\\Desktop\\Spring_Boot\\fms\\.git;C\:\\Users\\shash\\OneDrive\\Desktop\\Spring_Boot\\sms\\.git;
+GitRepositoriesView.GitDirectories.relative=dms\\.git;fms\\.git;sms\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

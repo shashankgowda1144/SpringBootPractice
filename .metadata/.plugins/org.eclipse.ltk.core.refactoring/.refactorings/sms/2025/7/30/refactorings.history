@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.jsp.lms&apos; to &apos;org.jsp.sms&apos;&#x0D;&#x0A;- Original project: &apos;sms&apos;&#x0D;&#x0A;- Original element: &apos;sms/src/main/java/org.jsp.lms&apos;&#x0D;&#x0A;- Renamed element: &apos;sms/src/main/java/org.jsp.sms&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.jsp.lms&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.jsp.lms" name="org.jsp.sms" qualified="false" references="true" stamp="1753163741408" textual="false" version="1.0"/>
+</session>
